@@ -14,11 +14,11 @@ This is a great tool where we have tons of articles on common student technical 
 
 Some key parts that seem to come up often:
 
-- Pretty much anything to do with the Learn IDE: https://help.learn.co/hc/en-us/categories/204144547-The-Learn-IDE
- - Learn IDE install issues: https://help.learn.co/hc/en-us/articles/235995228-Cannot-Install-the-Learn-IDE
-- Workflow issues: https://help.learn.co/hc/en-us/categories/204691268-Workflow
- - Especially [You don't appear to be in a Learn lesson's directory](https://help.learn.co/hc/en-us/articles/230089227-You-don-t-appear-to-be-in-a-Learn-lesson-s-directory)
-- Lights not turning green: https://help.learn.co/hc/en-us/articles/235950008-Lights-Not-Turning-Green
+- Pretty much anything to do with the Learn IDE: http://help.learn.co/the-learn-ide
+ - Learn IDE install issues: http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/cannot-install-the-learn-ide
+- Workflow issues: http://help.learn.co/workflow-tips
+ - Especially [You don't appear to be in a Learn lesson's directory](http://help.learn.co/workflow-tips/running-tests/you-dont-appear-to-be-in-a-learn-lessons-directory)
+- Lights not turning green: http://help.learn.co/your-learn-account/learn-lights/lights-not-turning-green
 
 ### The Support Repo
 
