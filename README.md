@@ -15,10 +15,9 @@ This is a great tool where we have tons of articles on common student technical 
 Some key parts that seem to come up often:
 
 - Pretty much anything to do with the Learn IDE: http://help.learn.co/the-learn-ide
- - Learn IDE install issues: http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/cannot-install-the-learn-ide
+ - How to download and use IDE 3: http://help.learn.co/the-learn-ide/how-to-download-and-use-learn-ide-3
+-  New changes with Learn IDE 3: http://help.learn.co/the-learn-ide/the-new-changes-with-learn-ide-3
 - Workflow issues: http://help.learn.co/workflow-tips
- - Especially [You don't appear to be in a Learn lesson's directory](http://help.learn.co/workflow-tips/running-tests/you-dont-appear-to-be-in-a-learn-lessons-directory)
-- Lights not turning green: http://help.learn.co/your-learn-account/learn-lights/lights-not-turning-green
 
 ### The Support Repo
 
@@ -34,3 +33,5 @@ This is the non-student facing support page that we have. Here you will find som
 ### [Learn Expert Chrome Extension](https://github.com/NStephenson/LE3)
 
 This is a tool that helps you better track questions at the learn.co/expert-chat route. You probably won't find it too helpful if you're doing screen shares, but perhaps more helpful if you're dispatcher or doing standard support shifts (on weekends). 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-support-tools'>Learn Expert Support Tools</a> on Learn.co and start learning to code for free.</p>
