@@ -8,7 +8,7 @@
 
 ### The Help Center
 
-We've recently created the public facing Help Center: https://help.learn.co/hc/en-us
+We've recently created the public facing Help Center: http://help.learn.co/
 
 This is a great tool where we have tons of articles on common student technical problems (not _coding_ problems). Whenever possible, we want to link students to the Help Center. This will help train them to check this location for fixes and help us save time by not having to re-type how to do something like add an SSH key to GitHub 20 times. 
 
@@ -24,11 +24,11 @@ Some key parts that seem to come up often:
 
 This track has been linking a lot to the support repo, but I just wanted to mentioned it one more time: https://github.com/flatiron-labs/learn-support
 
-This is the non-student facing support page that we have. Here you will find some other fixes that don't make sense to be student facing along with other things that pertain to being a Learn Expert:
+This is the non-student facing support page that we have. Here you will find some other fixes that don't make sense to be student facing along with other things that pertain to being a Technical Coach:
 
 - [Common Lab Errors](https://github.com/flatiron-labs/learn-support/blob/master/common-lab-errors.md)
 - [How to do a shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-do-a-shift.md)
-- [Escalating issues](https://github.com/flatiron-labs/learn-support/blob/master/how-to-do-a-shift.md)
+- [Escalating issues](https://github.com/flatiron-labs/learn-support/blob/master/escalation.md)
 - [How to raise an issue on curriculum](https://github.com/flatiron-labs/learn-support/blob/master/how-to-raise-an-issue.md)
 
 ### [Learn Expert Chrome Extension](https://github.com/NStephenson/LE3)
