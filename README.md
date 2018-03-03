@@ -1,4 +1,4 @@
-# Learn Expert Support Tools
+# Technical Coach Support Tools
 
 ## Objectives
 
@@ -27,10 +27,9 @@ This track has been linking a lot to the support repo, but I just wanted to ment
 This is the non-student facing support page that we have. Here you will find some other fixes that don't make sense to be student facing along with other things that pertain to being a Technical Coach:
 
 - [Common Lab Errors](https://github.com/flatiron-labs/learn-support/blob/master/common-lab-errors.md)
-- [How to do a shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-do-a-shift.md)
 - [Escalating issues](https://github.com/flatiron-labs/learn-support/blob/master/escalation.md)
 - [How to raise an issue on curriculum](https://github.com/flatiron-labs/learn-support/blob/master/how-to-raise-an-issue.md)
 
-### [Learn Expert Chrome Extension](https://github.com/NStephenson/LE3)
+### [Expert Chat Chrome Extension](https://github.com/NStephenson/LE3)
 
-This is a tool that helps you better track questions at the learn.co/expert-chat route. You probably won't find it too helpful if you're doing screen shares, but perhaps more helpful if you're dispatcher or doing standard support shifts (on weekends). 
+This is a tool that helps you better track questions at the learn.co/expert-chat route. You probably won't find it too helpful if you're doing pair programming, but perhaps more helpful if you're dispatcher. 
